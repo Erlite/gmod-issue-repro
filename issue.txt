@@ -1,0 +1,11 @@
+"issue"
+{
+	"base"		"base"
+	"title"		"Issue Repro Gamemode"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+    }
+}
